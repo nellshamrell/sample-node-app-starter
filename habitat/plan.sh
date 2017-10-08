@@ -1,7 +1,7 @@
 pkg_name=sample-node-app
 pkg_origin=bunny
 pkg_scaffolding="core/scaffolding-node"
-pkg_version="1.0.1"
+pkg_version="2.0.1"
 
 declare -A scaffolding_env
 
